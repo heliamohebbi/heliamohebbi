@@ -1,16 +1,36 @@
-## Hi there 👋
+# Helia Mohebbi
+### Software Engineer & Web Developer | Technical SEO
 
-<!--
-**heliamohebbi/heliamohebbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building robust web systems, API integrations, and automated workflows.  
+Co-Founder @ [Ounline Agency](https://ounline.agency)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tooling
+
+**Core Development:**  
+`Python` • `HTML5 / CSS3` • `REST APIs` • `Git` • `SQL`
+
+**Automation & Workflows:**  
+`n8n` • `Webhooks` • `API Integrations` • `Process Automation`
+
+**Performance & Technical SEO:**  
+`Cloudflare` • `Core Web Vitals` • `Technical Audits` • `GeoDNS / Caching`
+
+---
+
+### 🚀 Selected Projects
+
+- 🌐 **[Ashireh](https://ashireh.com)**
+- 📐 **[Zenees](https://zenees.com)**
+- ☕ **[FabioFareliCoffee](https://fabiofarelicoffee.com)** 
+- 📦 **[Nuloshid](https://nuloshid.com)** 
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heliamohebbi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/heliamohebbi)
+[![Email](https://img.shields.io/badge/Email-heliamohebbi3@gmail.com-red?style=flat-square&logo=gmail)](mailto:heliamohebbi3@gmail.com)
+[![Agency](https://img.shields.io/badge/Agency-Ounline-black?style=flat-square)](https://ounline.agency)
+
